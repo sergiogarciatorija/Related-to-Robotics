@@ -4,8 +4,9 @@ Welcome to my repository of projects on robotics, biomechanics and more.
 
 ## Table of Contents
 1. [Biomechanics](#biomechanics)
-2. [Arduino Projects](#arduino)
-3. [Other projects](#other-projects)
+2. [Health](#health)
+3. [Arduino Projects](#arduino)
+4. [Other projects](#other-projects)
 
 ## Biomechanics
 This project focuses on the integration of biomechanical and software knowledge, more oriented towards health and sports. 
