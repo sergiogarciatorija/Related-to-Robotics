@@ -9,7 +9,8 @@ Welcome to my repository of projects on robotics, biomechanics and more.
 
 ## Biomechanics
 This project focuses on the integration of biomechanical and software knowledge, more oriented towards health and sports. 
-- **Languages**: Python, C++
+- **Languages**: Python, C+
+- **Libraries**: OpenCV, NumPy, MediaPipe,...
 
 ## Arduino
 Here you will find projects related to microcontrollers such as:
